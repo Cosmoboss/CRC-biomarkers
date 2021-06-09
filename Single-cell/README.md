@@ -3,7 +3,9 @@
 In this folder are all the codes that were used to process single-cell data and additional files which can be easily loaded into R.
 Do note that the codes do not process all the datasets at once.
 However, they are usable for all datasets if you change a few parameters which differ per dataset.
-The additional files are given as sometimes R fails to process the files due to the size of the datasets.
+The additional files are available on the google drive link below as sometimes R fails to process the files due to the size of the datasets.
+  https://drive.google.com/drive/folders/1SKSUQ-e94XoNBqnECdfrOxbvpXfA2WQg?usp=sharing
+  Note: The files were to big to upload on GitHub
   
 * Make_and_process_seurat_all_cells
   * Reads the count data for the single-cell study and processes it in Seurat for all cell types present
